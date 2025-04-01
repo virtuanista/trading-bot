@@ -291,7 +291,7 @@ Las pruebas iniciales muestran áreas de mejora, y con las optimizaciones recome
 </p>
 
 <p align="center">
-	<img src="https://soniditos.com/cat_footer.svg" />
+	<img src="https://open.soniditos.com/cat_footer.svg" />
 </p>
 
 <p align="center">
